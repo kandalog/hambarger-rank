@@ -5,63 +5,67 @@ type HamburgerType = {
 
 export const hamburgers: HamburgerType[] = [
   {
-    name: "ハンバーガー",
-    rank: 1,
+    name: "スパチキ",
+    rank: 0,
+  },
+  {
+    name: "てりやきチキンフィレオ",
+    rank: 0,
+  },
+  {
+    name: "えびフィレオ",
+    rank: 0,
   },
   {
     name: "チーズバーガー",
-    rank: 1,
+    rank: 0,
+  },
+  {
+    name: "チキチー",
+    rank: 0,
+  },
+  {
+    name: "マックチキン",
+    rank: 0,
   },
   {
     name: "ダブルチーズバーガー",
-    rank: 1,
+    rank: 0,
   },
   {
-    name: "ビッグマック",
-    rank: 1,
+    name: "炙り醤油風 ベーコントマト肉厚ビーフ",
+    rank: 0,
   },
   {
-    name: "てりやきマックバーガー",
-    rank: 1,
+    name: "ハンバーガー",
+    rank: 0,
   },
   {
-    name: "ダブルてりやきマックバーガー",
-    rank: 1,
+    name: "炙り醤油風 ダブル肉厚ビーフ",
+    rank: 0,
+  },
+  {
+    name: "エグチ",
+    rank: 0,
+  },
+  {
+    name: "ビックマック",
+    rank: 0,
   },
   {
     name: "フィレオフィッシュ",
-    rank: 1,
+    rank: 0,
+  },
+  {
+    name: "てりやきマックバーガー",
+    rank: 0,
   },
   {
     name: "チキンフィレオ",
-    rank: 1,
-  },
-  {
-    name: "エビフィレオ",
-    rank: 1,
+    rank: 0,
   },
   {
     name: "ベーコンレタスバーガー",
-    rank: 1,
-  },
-  {
-    name: "クォーターパウンダー・チーズ",
-    rank: 1,
-  },
-  {
-    name: "ダブルクォーターパウンダー・チーズ",
-    rank: 1,
-  },
-  {
-    name: "グラン クラブハウス",
-    rank: 1,
-  },
-  {
-    name: "グラン てりやき",
-    rank: 1,
-  },
-  {
-    name: "グラン ガーリックペッパー",
-    rank: 1,
+    rank: 0,
   },
 ];
