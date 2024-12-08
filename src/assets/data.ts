@@ -6,66 +6,66 @@ type HamburgerType = {
 export const hamburgers: HamburgerType[] = [
   {
     name: "スパチキ",
-    rank: 0,
+    rank: 15,
   },
   {
     name: "てりやきチキンフィレオ",
-    rank: 0,
+    rank: 12,
   },
   {
     name: "えびフィレオ",
-    rank: 0,
+    rank: 2,
   },
   {
     name: "チーズバーガー",
-    rank: 0,
+    rank: 10,
   },
   {
     name: "チキチー",
-    rank: 0,
+    rank: 14,
   },
   {
     name: "マックチキン",
-    rank: 0,
+    rank: 16,
   },
   {
     name: "ダブルチーズバーガー",
-    rank: 0,
+    rank: 1,
   },
   {
     name: "炙り醤油風 ベーコントマト肉厚ビーフ",
-    rank: 0,
+    rank: 6,
   },
   {
     name: "ハンバーガー",
-    rank: 0,
+    rank: 13,
   },
   {
     name: "炙り醤油風 ダブル肉厚ビーフ",
-    rank: 0,
+    rank: 7,
   },
   {
     name: "エグチ",
-    rank: 0,
+    rank: 8,
   },
   {
     name: "ビックマック",
-    rank: 0,
+    rank: 3,
   },
   {
     name: "フィレオフィッシュ",
-    rank: 0,
+    rank: 4,
   },
   {
     name: "てりやきマックバーガー",
-    rank: 0,
+    rank: 5,
   },
   {
     name: "チキンフィレオ",
-    rank: 0,
+    rank: 9,
   },
   {
     name: "ベーコンレタスバーガー",
-    rank: 0,
+    rank: 11,
   },
 ];
